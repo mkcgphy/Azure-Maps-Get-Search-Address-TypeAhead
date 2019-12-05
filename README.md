@@ -15,3 +15,4 @@ Following steps needs to be completed:
     Subscription Key is mandatory for the control to work. In case of Ajax Call action name can be provided any value of your choice otherwise it should be name of your custom action. 
 
 4. Currently it is configured to work for Ajax calls. For custom action please update the file using comments part.
+5. At this point you need to add dummy value to ActionName , Minlength = 8 .
